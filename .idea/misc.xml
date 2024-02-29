@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/18-spring-boot-Validation/pom.xml" />
+        <option value="$PROJECT_DIR$/19-spring-boot-doc-openapi/pom.xml" />
+        <option value="$PROJECT_DIR$/3-spring-boot-rest-api-list/pom.xml" />
+        <option value="$PROJECT_DIR$/17-spring-boot-ErrorHandling/pom.xml" />
+        <option value="$PROJECT_DIR$/20-spring-boot-microservices/employee-service/pom.xml" />
+        <option value="$PROJECT_DIR$/20-spring-boot-microservices/department-service/pom.xml" />
+        <option value="$PROJECT_DIR$/2-spring-boot-rest-api - bean/pom.xml" />
+        <option value="$PROJECT_DIR$/24- springboot-kafka-tutorial/pom.xml" />
+        <option value="$PROJECT_DIR$/10-spring-boot-rest-api-BaseURL/pom.xml" />
+        <option value="$PROJECT_DIR$/1-spring-boot-rest-api-hello-wolrd/pom.xml" />
+        <option value="$PROJECT_DIR$/11-spring-boot-restful-webservices/pom.xml" />
+        <option value="$PROJECT_DIR$/8-spring-boot-rest-api-DeleteMapping/pom.xml" />
+        <option value="$PROJECT_DIR$/9-spring-boot-rest-api-ResponseEntity/pom.xml" />
+        <option value="$PROJECT_DIR$/22-springboot-microservices-API-gateway/api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/22-springboot-microservices-API-gateway/employee-service/pom.xml" />
+        <option value="$PROJECT_DIR$/22-springboot-microservices-API-gateway/service-registry/pom.xml" />
+        <option value="$PROJECT_DIR$/22-springboot-microservices-API-gateway/department-service/pom.xml" />
+        <option value="$PROJECT_DIR$/12-spring-boot-restful-Create JPA Entity/pom.xml" />
+        <option value="$PROJECT_DIR$/5-spring-boot-rest-api-list-RequestParam/pom.xml" />
+        <option value="$PROJECT_DIR$/23-springboot-microservices-config-server/api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/23-springboot-microservices-config-server/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/23-springboot-microservices-config-server/employee-service/pom.xml" />
+        <option value="$PROJECT_DIR$/23-springboot-microservices-config-server/service-registry/pom.xml" />
+        <option value="$PROJECT_DIR$/23-springboot-microservices-config-server/department-service/pom.xml" />
+        <option value="$PROJECT_DIR$/4-spring-boot-rest-api-list -PathVariable/pom.xml" />
+        <option value="$PROJECT_DIR$/21-springboot-microservices-netflix-eureka/employee-service/pom.xml" />
+        <option value="$PROJECT_DIR$/21-springboot-microservices-netflix-eureka/service-registry/pom.xml" />
+        <option value="$PROJECT_DIR$/21-springboot-microservices-netflix-eureka/department-service/pom.xml" />
+        <option value="$PROJECT_DIR$/14-spring-boot-restful-Create User REST API/pom.xml" />
+        <option value="$PROJECT_DIR$/13-spring-boot-restful-Create UserRepository/pom.xml" />
+        <option value="$PROJECT_DIR$/7-spring-boot-rest-api-PutMapping and RequestBody/pom.xml" />
+        <option value="$PROJECT_DIR$/15-spring-boot-restful-Create User REST API to Use DTO/pom.xml" />
+        <option value="$PROJECT_DIR$/16-spring-boot-restful-Mapping Libraries to Map Entity to DTO/pom.xml" />
+        <option value="$PROJECT_DIR$/26- springboot-kafka-tutorial-after-JSON-Serializer-Deserializer/pom.xml" />
+        <option value="$PROJECT_DIR$/6-spring-boot-rest-api-list-RequestParam-PostMapping and RequsetBody/pom.xml" />
+        <option value="$PROJECT_DIR$/27 - springboot-kafka-tutorial-after-JSON-Serializer-Deserializer-application-properties/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_20" default="true" project-jdk-name="openjdk-20" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

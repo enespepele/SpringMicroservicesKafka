@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Annotation profile for springboot-restful-webservices" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/mapstruct/mapstruct-processor/1.5.3.Final/mapstruct-processor-1.5.3.Final.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/mapstruct/mapstruct/1.5.3.Final/mapstruct-1.5.3.Final.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.20/lombok-1.18.20.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok-mapstruct-binding/0.2.0/lombok-mapstruct-binding-0.2.0.jar" />
+        </processorPath>
+        <module name="springboot-restful-webservices" />
+        <module name="springboot-restful-webservices (2)" />
+        <module name="springboot-restful-webservices (3)" />
+        <module name="springboot-restful-webservices (1)" />
+      </profile>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-rest-api (3)" />
+        <module name="service-registry (2)" />
+        <module name="department-service (2) (net.javaguides)" />
+        <module name="spring-boot-rest-api (5)" />
+        <module name="springboot-kafka-tutorial (2)" />
+        <module name="spring-boot-rest-api (1)" />
+        <module name="employee-service (3) (net.javaguides)" />
+        <module name="springboot-restful-webservices (2) (com.enesppl)" />
+        <module name="spring-boot-rest-api (7)" />
+        <module name="spring-boot-rest-api (9)" />
+        <module name="department-service (3) (net.javaguides)" />
+        <module name="spring-boot-rest-api" />
+        <module name="springboot-restful-webservices (1) (com.enesppl)" />
+        <module name="springboot-restful-webservices (5) (com.enesppl)" />
+        <module name="employee-service (2) (net.javaguides)" />
+        <module name="spring-boot-rest-api (2)" />
+        <module name="service-registry (1)" />
+        <module name="springboot-restful-webservices (4) (com.enesppl)" />
+        <module name="spring-boot-rest-api (4)" />
+        <module name="springboot-kafka-tutorial (1)" />
+        <module name="department-service" />
+        <module name="api-gateway (1)" />
+        <module name="department-service (1) (net.javaguides)" />
+        <module name="spring-boot-rest-api (6)" />
+        <module name="employee-service" />
+        <module name="spring-boot-rest-api (8)" />
+        <module name="config-server" />
+        <module name="springboot-restful-webservices (3) (com.enesppl)" />
+        <module name="employee-service (1) (net.javaguides)" />
+        <module name="springboot-kafka-tutorial" />
+        <module name="api-gateway" />
+        <module name="service-registry" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="api-gateway" options="-parameters" />
+      <module name="api-gateway (1)" options="-parameters" />
+      <module name="config-server" options="-parameters" />
+      <module name="department-service" options="-parameters" />
+      <module name="department-service (1) (net.javaguides)" options="-parameters" />
+      <module name="department-service (2) (net.javaguides)" options="-parameters" />
+      <module name="department-service (3) (net.javaguides)" options="-parameters" />
+      <module name="employee-service" options="-parameters" />
+      <module name="employee-service (1) (net.javaguides)" options="-parameters" />
+      <module name="employee-service (2) (net.javaguides)" options="-parameters" />
+      <module name="employee-service (3) (net.javaguides)" options="-parameters" />
+      <module name="service-registry" options="-parameters" />
+      <module name="service-registry (1)" options="-parameters" />
+      <module name="service-registry (2)" options="-parameters" />
+      <module name="spring-boot-rest-api" options="-parameters" />
+      <module name="spring-boot-rest-api (1)" options="-parameters" />
+      <module name="spring-boot-rest-api (2)" options="-parameters" />
+      <module name="spring-boot-rest-api (3)" options="-parameters" />
+      <module name="spring-boot-rest-api (4)" options="-parameters" />
+      <module name="spring-boot-rest-api (5)" options="-parameters" />
+      <module name="spring-boot-rest-api (6)" options="-parameters" />
+      <module name="spring-boot-rest-api (7)" options="-parameters" />
+      <module name="spring-boot-rest-api (8)" options="-parameters" />
+      <module name="spring-boot-rest-api (9)" options="-parameters" />
+      <module name="springboot-kafka-tutorial" options="-parameters" />
+      <module name="springboot-kafka-tutorial (1)" options="-parameters" />
+      <module name="springboot-kafka-tutorial (2)" options="-parameters" />
+      <module name="springboot-restful-webservices" options="-parameters" />
+      <module name="springboot-restful-webservices (1)" options="-parameters" />
+      <module name="springboot-restful-webservices (1) (com.enesppl)" options="-parameters" />
+      <module name="springboot-restful-webservices (2)" options="-parameters" />
+      <module name="springboot-restful-webservices (2) (com.enesppl)" options="-parameters" />
+      <module name="springboot-restful-webservices (3)" options="-parameters" />
+      <module name="springboot-restful-webservices (3) (com.enesppl)" options="-parameters" />
+      <module name="springboot-restful-webservices (4) (com.enesppl)" options="-parameters" />
+      <module name="springboot-restful-webservices (5) (com.enesppl)" options="-parameters" />
+    </option>
+  </component>
+</project>
